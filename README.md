@@ -1,7 +1,7 @@
 # MambaSR
 This repository contains the official implementation for MambaSR
 
-Our code is based on Ubuntu 18.04, pytorch 1.13.1, CUDA 11.7 and python 3.9.
+Our code is based on Ubuntu 18.04, pytorch 1.13.1, CUDA 11.7, causal-conv1d 1.0.0, mamba_ssm 1.0.1 and python 3.9.
 
 ## Demo
 ### Fixed Scale
